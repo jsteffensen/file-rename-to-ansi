@@ -1,0 +1,14 @@
+{
+  "name": "file-rename-to-ansi",
+  "version": "1.0.0",
+  "description": "Rename files so the name can be read from the SD card to display in car head units",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jsteffensen",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.8.2"
+  }
+}
