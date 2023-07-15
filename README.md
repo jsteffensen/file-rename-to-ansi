@@ -1,6 +1,6 @@
 # file-rename-to-ansi
 
-## Translate filename to English
+## Translate filenames to English
 
 ## run
 
